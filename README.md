@@ -1,5 +1,5 @@
-# Classification of Image Data
-Classification of Image Data
+# Image Classification using Multilayer Perceptron
+Implement a multilayer perceptron from scratch and use it to classify image data. 
 
 ## Multilayer Perceptron (MLP)
 We created an MLP with no hidden layers, an MLP with a single hidden layer having 128 units and ReLU activations, and an MLP with 2 hidden layers each having 128 units with ReLU activations, each with a softmax layer at the end 
